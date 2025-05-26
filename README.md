@@ -7,7 +7,11 @@ You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set 
 You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex as a plugin
 
 # VirusTotal Scans:
-Resident Evil 4 exe file: https://www.virustotal.com/gui/file/1454b38c51307a72cd0fc67e0744cdf5a2953fb122d154a644de6abc24ea4295?nocache=1
+Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/1454b38c51307a72cd0fc67e0744cdf5a2953fb122d154a644de6abc24ea4295
+Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file-analysis/NTliODM5YThhYTkwYTNmODg2NWNkZWI5YTYxNmEwMDE6MTc0ODMwMTg0OA==
+Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file-analysis/ZWY3OWZlYTIxNjc0ZWJiZThhMjE2NjQxNjRiZjZmNTQ6MTc0ODMwMTkxMw==
+Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file-analysis/YzBiNWUyOGQyMmQyZDE0OGVkMDM4MjM0OGJjMTE0MTk6MTc0ODMwMTkzNg==
+BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
 
 # Compiling
 I've included the Source Code of these tools so they can be compiled or looked over to make sure they don't contain malicious code. 
