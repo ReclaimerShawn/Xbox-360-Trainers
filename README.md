@@ -1,5 +1,5 @@
 # Xbox 360 Trainers
-These are tools I've made for Single Player games and Co-Op games. I prefer not to ruin online play for competitive games, so I won't develop anything for those games.
+These are tools I've made for Single Player games and Co-Op games. I prefer not to ruin online play for competitive games, so I won't develop anything for those games. They all require a modified console or a devkit to use.
 Whenever I make something for a Co-Op game, please don't use my tools online to negatively affect the gameplay of others. These tools are meant to enhance the experience of these games, not to make them worse.
 
 # Setup
