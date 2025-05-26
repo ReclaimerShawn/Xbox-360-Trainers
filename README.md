@@ -14,6 +14,4 @@ I've included the Source Code of these tools so they can be compiled or looked o
 If you want to compile these tools, simply open the Solution in Visual Studio Professional 2010. Then add the included xdevkit.dll as a reference. After that, you should be able to compile the tools.
 
 # Takedowns
-I am nothing more than a hobbyist who likes to mess around with games played in childhood. 
-I am also a medical student and, as a result of the profession I'm in, I want nothing on my record.
 If you are the Game developer my tool is affected by, the Publisher, or Microsoft and you want me to take my tool down, simply file an issue in the Github and I'll take it down promptly. No need to C&D or sue me.
