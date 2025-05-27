@@ -10,7 +10,7 @@ The game won't crash if you select non-DLC characters, though.
 
 # Known Glitches
 * If you don't click Enable Tool before use, the tool won't work. You click Connect and then click Enable Tool after the tool connects and it'll work properly.
-* The character editor may take changing the chapter, saving and exiting a few times before your characters are actually changed.
+* The character editor may take changing the chapter, saving, and exiting a few times before your characters are actually changed.
 
 # NOTICE
 Don't select DLC characters online with other players unless they have a modded console and their copy of RE5 has the nativeXenon files placed in the game directory. Otherwise, their games may crash on loading.
