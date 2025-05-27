@@ -8,8 +8,9 @@ The game won't crash if you select non-DLC characters, though.
 3) Open the DLC package files in wxPirs-1.1 and extract all files and folders for both packages to the nativeXenon folder.
 4) Place the nativeXenon folder in the same directory as your Resident Evil 5 game. This is only possible if your game is in .XEX format
 
-# Known Glitches
+# Program Quirks
 * If you don't click Enable Tool before use, the tool won't work. You click Connect and then click Enable Tool after the tool connects and it'll work properly.
+* The item modifier only works if you fire your gun/item once before selecting options. It uses the ammo counter to find the item address. So, before using it, fire the gun you want to change first. If Sheva fires her gun and she's an AI character, it'll find/modify whatever gun she was using whenever she fired.
 * The character editor may take changing the chapter, saving, and exiting a few times before your characters are actually changed.
 
 # NOTICE
