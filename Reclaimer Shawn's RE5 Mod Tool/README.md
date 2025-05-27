@@ -9,6 +9,7 @@ The game won't crash if you select non-DLC characters, though.
 4) Place the nativeXenon folder in the same directory as your Resident Evil 5 game. This is only possible if your game is in .XEX format
 
 # Known Glitches
+* If you don't click Enable Tool before using any of the cheats, the tool won't work. Push the button.
 * The character editor may take changing the chapter, saving and exiting a few times before your characters are actually changed.
 
 # NOTICE
