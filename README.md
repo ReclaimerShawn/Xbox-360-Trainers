@@ -15,6 +15,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 
 # Next Trainer Ideas:
 * Resident Evil 6 Tool
+* Bakugan Battle Brawlers
 * Final Fantasy XIII Tool
 * Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
 
