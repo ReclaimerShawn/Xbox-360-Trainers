@@ -10,3 +10,5 @@ The game won't crash if you select non-DLC characters, though.
 
 # NOTICE:
 Don't select DLC characters online with other players unless they have a modded console and their copy of RE5 has the nativeXenon files placed in the game directory. Otherwise, their games may crash on loading.
+
+![RE5 Tool UI](https://github.com/user-attachments/assets/f0224a07-11bf-4b4f-bf8b-ac699c82b1cf)
