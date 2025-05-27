@@ -1,5 +1,6 @@
 # Known Glitches
 * Invincibility makes you unable to reload your guns or aim them. I don't know if this affects others, but I know it affects the host.
+* For others to be able to properly join your game, first enable the cheats and then start up a game. Then, let them join your game in progress. If you try starting a game with other people online instead of having them joining in progress, your console will freeze but their consoles won't.
 
 # Online Use
 The cheats only work if you're host. If you're not host, none of them work. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
