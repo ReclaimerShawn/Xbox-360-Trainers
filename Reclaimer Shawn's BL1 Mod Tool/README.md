@@ -1,5 +1,5 @@
 # Known Glitches
-These glitches might be fixable if I did more work on the function I made to do this. I'm not working on this.
+These glitches might be fixable if I did more work on the function I made to do this. I'm not working on these:
 * Setting yourself to Level 2147483647 breaks the ability of vehicles to fire weapons. Any Level over 100 does this, hence why I added a Level 100 option to the tool.
 * The game may randomly crash when using Invincibility or Insta-Kill. This is unlikely to happen, just know it can. Also, it seems as if using either of these options sometimes causes graphical glitches on enemy models. It's odd but doesn't actually affect gameplay.
 
