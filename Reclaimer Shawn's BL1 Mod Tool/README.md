@@ -1,4 +1,5 @@
-# Known Glitches (Due to Borderlands itself and not the tool)
+# Known Glitches
+These glitches are entirely due to how the game works and not the tool itself. I cannot fix these glitches and I doubt anyone else will be able to either. Anyways, here are the glitches:
 * Using the Infinite Skill Points option prevents you from loading into the game. Disable the cheat until you get into the game.
 * Setting yourself to Level 2147483647 breaks the ability of vehicles to fire weapons. Any Level over 100 does this, hence why I added a Level 100 option to the tool.
 * The game may randomly crash when using Invincibility or Insta-Kill. This is unlikely to happen, just know it can. Also, it seems as if using either of these options sometimes causes graphical glitches on enemy models. It's odd but doesn't actually affect gameplay.
