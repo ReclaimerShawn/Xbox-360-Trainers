@@ -1,5 +1,8 @@
 # Known Glitches
+This glitch might be fixable if I did more work on the function I made to do this. I'm not working on this.
 * Invincibility makes you unable to reload your guns or aim them. I don't know if this affects others, but I know it affects the host.
+
+These glitches are entirely due to how the game works and not the tool itself. I cannot fix these glitches and I doubt anyone else will be able to either. Anyways, here are the glitches:
 * For others to be able to properly join your game, first enable the cheats and then start up a game. Then, let them join your game in progress. If you try starting a game with other people online instead of having them joining in progress, your console will freeze but their consoles won't.
 * Before joining a game yourself, you'll need to revert your character to Level 72 or under using Gibbed's Save Editor. Otherwise, you won't be allowed to join people's games as your level is way over the maximum. The level mod doesn't keep others from joining your game, though.
 
