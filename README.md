@@ -13,5 +13,9 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file-analysis/YzBiNWUyOGQyMmQyZDE0OGVkMDM4MjM0OGJjMTE0MTk6MTc0ODMwMTkzNg==
 * BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
 
+# Next Trainer Ideas:
+* Final Fantasy XIII Tool
+* Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
+
 # Takedowns
 If you are the Game developer my tool is affected by, the Publisher, or Microsoft and you want me to take my tool down, simply file an issue in the Github and I'll take it down promptly. No need to C&D or sue me.
