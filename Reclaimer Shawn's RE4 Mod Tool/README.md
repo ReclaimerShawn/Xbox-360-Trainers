@@ -1,5 +1,5 @@
 # Known Glitches
-This glitch might be fixable if someone helped me port the Gamecube version of the fix to the Xbox 360.
+This glitch might be fixable if someone helped me port the Gamecube version of the fix to the Xbox 360:
 * Characters other than Leon crash the second you have a radio transmission. This made to work by cheaters like Ralf on the Gamecube by disabling radio transmission, but I have no idea to make this cheat myself. If someone could help me with this, I'd highly appreciate it.
 
 These glitches are entirely due to how the game works and not the tool itself. I cannot fix these glitches and I doubt anyone else will be able to either. If there is a fix, it'd involve editing game files and animations. Anyways, here are the glitches:
