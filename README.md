@@ -20,4 +20,4 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
 
 # Takedowns
-If you are the Game developer my tool is affected by, the Publisher, or Microsoft and you want me to take my tool down, simply file an issue in the Github and I'll take it down promptly. No need to C&D or sue me.
+If you are the Game developer my tool is affected by, the Publisher, or Microsoft and you want me to take my tool down, simply file an issue in the Github and I'll take it down promptly.
