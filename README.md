@@ -15,7 +15,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 
 # Next Trainer Ideas
 * Resident Evil 6 Tool
-* Bakugan Battle Brawlers
+* Bakugan Battle Brawlers Tool
 * Final Fantasy XIII Tool
 * Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
 
@@ -25,4 +25,4 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 3) Build the tool and run the exe file.
 
 # Takedowns
-If you are the Game developer my tool is affected by, the Publisher, or Microsoft and you want me to take my tool down, simply file an issue in the Github and I'll take it down promptly.
+This is a note for the Developers and Publishers of the games of the tools I published here. This is also a note for Microsoft as well. If you want me to remove these tools, tell me what tool to remove by posting an Issue in this Github repository and I'll remove it promptly. You could also attempt contacting me via my email epiczombie7@gmail.com, but I rarely ever check this email and receieve a lot of spam in my inbox, so contacting me on the Github is a better idea.
