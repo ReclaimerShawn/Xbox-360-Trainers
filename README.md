@@ -4,7 +4,7 @@ Whenever I make something for a Co-Op game, please don't use my tools online to 
 
 # Setup
 You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set the console you want to use these tools on to the Default Console in Neighborhood or these tools won't connect.
-You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex as a plugin
+You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
 # VirusTotal Scans
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/1454b38c51307a72cd0fc67e0744cdf5a2953fb122d154a644de6abc24ea4295
