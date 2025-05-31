@@ -8,10 +8,12 @@ These glitches are entirely due to how the game works and not the tool itself. I
 * For others to be able to properly join your game, first enable the cheats and then start up a game. Then, let them join your game in progress. If you try starting a game with other people online instead of having them joining in progress, your console will freeze but their consoles won't.
 
 # Online Use
-The cheats only work if you're host. If you're not host, none of them work. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
+The cheats only work if you're host. If you're not host, only the Disable Sanity Check option works. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
 * Infinite Skill Points
 * Invincibility
 * Infinite Ammo
 * The Level modifier, but only on their vehicles and not the players themselves.
+
+Disabling the Sanity Check works, even if you're off-host. However, if you save while leaving someone else's game while modded weapons are equipped, the equipped weapons will be deleted. Put them back in your inventory before leaving the game to prevent these items from being deleted.
 
 ![BL1 Tool UI](https://github.com/user-attachments/assets/1e6c0cd4-cfd4-44c8-b417-a860d9f147ab)
