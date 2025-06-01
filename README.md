@@ -14,10 +14,10 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
 
 # Next Trainer Ideas
-* Resident Evil 6 Tool
 * Bakugan Battle Brawlers Tool
-* Final Fantasy XIII Tool
 * Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
+* Final Fantasy XIII Tool
+
 
 # Compilation Instructions
 1) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
