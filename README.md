@@ -12,12 +12,11 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
 * Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file-analysis/YzBiNWUyOGQyMmQyZDE0OGVkMDM4MjM0OGJjMTE0MTk6MTc0ODMwMTkzNg==
 * BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
+* Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59?nocache=1
 
 # Next Trainer Ideas
-* Bakugan Battle Brawlers Tool
 * Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
 * Final Fantasy XIII Tool
-
 
 # Compilation Instructions
 1) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
