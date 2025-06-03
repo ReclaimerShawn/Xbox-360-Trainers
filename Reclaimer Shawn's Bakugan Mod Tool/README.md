@@ -1,5 +1,3 @@
-# This tool may be updated in the future!
-
 # Known Glitches
 * Selecting a Bakugan that doesn't match with its attribute (EX: Haos Dragonoid) will a "Dummy Data" sprite instead of the ball model or the picture in-game. Mismatched Bakugan will also have black sprites. I consider these a feature, not a bug, but this is due to how the game works.
 * Viewing Naga's ball model causes the game to crash. I do not know how to get around this in battle other than by file editing the game, but I can get around it in the shop upgrade menu and the deck menu by using the following code:
