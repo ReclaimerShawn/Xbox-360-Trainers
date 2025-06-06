@@ -11,11 +11,10 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file-analysis/NTliODM5YThhYTkwYTNmODg2NWNkZWI5YTYxNmEwMDE6MTc0ODMwMTg0OA==
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
 * Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file/c920950f2622e6695b1f079d89d2994850186aa63f32f4f47420ecb07ae49966
-* BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
-* Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59?nocache=1
+* Borderlands TPS Tool exe file: https://www.virustotal.com/gui/file/38cb118e62b31b7a29e2f63d56f3d3764312dfd93599cf9c521e57902b4f76a9
+* Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59
 
 # Next Trainer Ideas
-* Turn BLTPS Sanity Check Bypass tool into full BLTPS tool
 * Final Fantasy XIII Tool
 
 # Compilation Instructions
