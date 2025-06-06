@@ -10,7 +10,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/1454b38c51307a72cd0fc67e0744cdf5a2953fb122d154a644de6abc24ea4295
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file-analysis/NTliODM5YThhYTkwYTNmODg2NWNkZWI5YTYxNmEwMDE6MTc0ODMwMTg0OA==
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
-* Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file-analysis/YzBiNWUyOGQyMmQyZDE0OGVkMDM4MjM0OGJjMTE0MTk6MTc0ODMwMTkzNg==
+* Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file/c920950f2622e6695b1f079d89d2994850186aa63f32f4f47420ecb07ae49966
 * BLTPS Sanity Check Bypasser exe file: https://www.virustotal.com/gui/file-analysis/ZjY5YTU0MzU5MThkMWY4NzU3Yjk1OGNjNzZlM2E2ZWQ6MTc0ODMwMjA0NA==
 * Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59?nocache=1
 
