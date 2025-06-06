@@ -16,6 +16,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 
 # Next Trainer Ideas
 * Final Fantasy XIII Tool
+* You can always suggest games that are Single Player or Co-Op (with no competitive aspects) in the issues and I might make a tool for the game sometime!
 
 # Compilation Instructions
 1) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
