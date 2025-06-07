@@ -9,6 +9,7 @@ These glitches are entirely due to how the game works and not the tool itself. I
 # Online Use (Speculated due to not being tested online yet.)
 The cheats only work if you're host. If you're not host, none of them work. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
 * Infinite Currency works sporadically for others. Seems to possibly happen whenever they receive money or buy/sell an item. Though, this may not immediately happen and take several minutes of game play.
+* Infinite HP and Insta-Kill works for all players
 
 ![BLTPS Tool UI](https://github.com/user-attachments/assets/d0c5da87-ed2a-42f2-9d17-d83eb8c81a4f)
 
