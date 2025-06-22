@@ -7,6 +7,8 @@ You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set 
 You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
 # VirusTotal Scans
+* RE ORC Model Swap Tool exe file:
+https://www.virustotal.com/gui/file/b5041593b0bc202811e3819bc5ab257147d02a8d3a29d7c32b37ec9d2563e576
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/1454b38c51307a72cd0fc67e0744cdf5a2953fb122d154a644de6abc24ea4295
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
