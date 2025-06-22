@@ -1,49 +1,49 @@
 # Proper Installation and Usage Instructions
 1) For this tool to work properly, go to the directory that contains your RE: ORC files and follow this directory: RE ORC/dlc/pack1/characters There are some files you'll need to copy. Make a copy of the following files:
-lupo.ssg
-lupo-hr.ssg
-hunk.ssg
-hunk-hr.ssg
-leon.ssg
-leon-hr.ssh
-ubcs.ssg
-ubcs-hr.ssg
-spook.ssg
-spook-hr.ssg
-deeay.ssg
-deeay-hr.ssg
-shona.ssg
-shona-hr.ssg
-tweed.ssg
-tweed-hr.ssg
-vector.ssg
-vector-hr.ssg
-harley.ssg
-harley-hr.ssg
-hunter.ssg
-hunter-hr.ssg
-licker.ssg
-licker-hr.ssg
-tyrant.ssg
-tyrant-hr.ssg
-willow.ssg
-willow-hr.ssg
-beltway.ssg
-beltway-hr.ssg
-adawong.ssg
-adawong-hr.ssg
-gbirkin.ssg
-gbirkin-hr.ssg
-nemesis.ssg
-nemesis-hr.ssg
-specops.ssg
-specops-hr.ssg
-foureyes.ssg
-foureyes-hr.ssg
-lonewolf.ssg
-lonewolf-hr.ssg
-parasite.ssg
-parasite-hr.ssg
+* lupo.ssg
+* lupo-hr.ssg
+* hunk.ssg
+* hunk-hr.ssg
+* leon.ssg
+* leon-hr.ssh
+* ubcs.ssg
+* ubcs-hr.ssg
+* spook.ssg
+* spook-hr.ssg
+* deeay.ssg
+* deeay-hr.ssg
+* shona.ssg
+* shona-hr.ssg
+* tweed.ssg
+* tweed-hr.ssg
+* vector.ssg
+* vector-hr.ssg
+* harley.ssg
+* harley-hr.ssg
+* hunter.ssg
+* hunter-hr.ssg
+* licker.ssg
+* licker-hr.ssg
+* tyrant.ssg
+* tyrant-hr.ssg
+* willow.ssg
+* willow-hr.ssg
+* beltway.ssg
+* beltway-hr.ssg
+* adawong.ssg
+* adawong-hr.ssg
+* gbirkin.ssg
+* gbirkin-hr.ssg
+* nemesis.ssg
+* nemesis-hr.ssg
+* specops.ssg
+* specops-hr.ssg
+* foureyes.ssg
+* foureyes-hr.ssg
+* lonewolf.ssg
+* lonewolf-hr.ssg
+* parasite.ssg
+* parasite-hr.ssg
 
 2) Now, name these copies accordingly.
 Rename lupo.ssg to lupu.ssg and lupo-hr.ssg to lupu-hr.ssg
