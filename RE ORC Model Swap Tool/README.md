@@ -1,7 +1,5 @@
 # Proper Installation and Usage Instructions
-1) For this tool to work properly, go to the directory that contains your RE: ORC files and follow this directory: RE ORC/dlc/pack1/characters
-
-There are some files you'll need to copy. Make a copy of the following files:
+1) For this tool to work properly, go to the directory that contains your RE: ORC files and follow this directory: RE ORC/dlc/pack1/characters There are some files you'll need to copy. Make a copy of the following files:
 lupo.ssg
 lupo-hr.ssg
 hunk.ssg
