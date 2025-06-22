@@ -17,6 +17,6 @@ The game won't crash if you select non-DLC characters, though.
 The cheats only work if you're host. Here are some notes about online use with this tool:
 * Item Editor works. Have the player fire a gun and then change the gun. Tell them not to fire the gun again until they enter a door, otherwise, the gun will revert back to normal. Then walk through a door and their item will change to the one of your choice and have whatever options you gave it (Infinite Ammo, Damage Mod, Rapid Fire).
 * The character editor works online but the skin modifier doesn't. As a result, be sure to tell players to set their skins to the default BSAA skin before joining, otherwise, their game might crash. Also, modified characters cannot open certain doors online, rendering it impossible to progress further in the game. This doesn't happen offline.
-* Unlike what the tool says, using DLC characters doesn't crash the player's game online. I got someone to finally test it with me and it worked properly. The skin editor doesn't work online, though.
+* Unlike what the tool says, using DLC characters doesn't crash the player's game online. I got someone to finally test it with me and it worked properly.
 
 ![RE5 Tool UI](https://github.com/user-attachments/assets/f0224a07-11bf-4b4f-bf8b-ac699c82b1cf)
