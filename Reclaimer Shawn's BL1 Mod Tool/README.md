@@ -16,4 +16,6 @@ The cheats only work if you're host. If you're not host, only the Disable Sanity
 
 Disabling the Sanity Check works, even if you're off-host. However, if you save while leaving someone else's game while modded weapons are equipped, the equipped weapons will be deleted. Put them back in your inventory before leaving the game to prevent these items from being deleted.
 
+Thanks to gatekeeper1122 for helping me test this tool online!
+
 ![BL1 Tool UI](https://github.com/user-attachments/assets/1e6c0cd4-cfd4-44c8-b417-a860d9f147ab)
