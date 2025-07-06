@@ -7,7 +7,7 @@ These glitches are entirely due to how the game works and not the tool itself. I
 * Before joining a game yourself, you'll need to revert your character to Level 72 or under using Gibbed's Save Editor. Otherwise, you won't be allowed to join people's games as your level is way over the maximum. The level mod doesn't keep others from joining your game, though.
 
 # Online Use
-The cheats only work if you're host. If you're not host, none of them work except for Disabling the Sanity Check. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
+The cheats only work if you're host. If you're not host, only Disabling the Sanity Check works. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
 * Infinite Currency
 * Infinite HP and Insta-Kill
 * Infinite Ammo and OZ Kits
