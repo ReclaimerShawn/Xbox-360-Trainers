@@ -8,6 +8,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 
 # VirusTotal Scans
 * RE ORC Model Swap Tool exe file: https://www.virustotal.com/gui/file/c52b03ca8f9b522141dd517c570a149f88513b0a0e3b22b159601d4fd9bd55f6
+* RE ORC Mod Tool exe file: https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
