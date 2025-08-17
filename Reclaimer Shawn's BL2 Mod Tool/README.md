@@ -7,6 +7,7 @@ These glitches are entirely due to how the game works and not the tool itself. I
 The cheats only work if you're host. If you're not host, only Disabling the Sanity Check works. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
 * Infinite Currency works sporadically for others. Seems to possibly happen whenever they receive money or buy/sell an item. Though, this may not immediately happen and take several minutes of game play.
 * Infinite HP and Insta-Kill works for all players
+* Infinite Ammo (but not Infinite Grenades)
 
 Thanks to gatekeeper1122 for helping me test this tool online!
 
