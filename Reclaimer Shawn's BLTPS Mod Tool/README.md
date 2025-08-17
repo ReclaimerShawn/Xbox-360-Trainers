@@ -10,9 +10,9 @@ These glitches are entirely due to how the game works and not the tool itself. I
 The cheats only work if you're host. If you're not host, only Disabling the Sanity Check works. If you are host, all of the cheats work for you and some work for other people. These are the following cheats that work for other people:
 * Infinite Currency
 * Infinite HP and Insta-Kill
-* Infinite Ammo and OZ Kits
+* Infinite Ammo and OZ Kits (but not Infinite Grenades)
 
-Thanks to Hinisaki for testing this tool online with me!
+Thanks to Hinisaki and gatekeeper1122 for testing this tool online with me!
 
 ![BLTPS Tool UI](https://github.com/user-attachments/assets/d0c5da87-ed2a-42f2-9d17-d83eb8c81a4f)
 
