@@ -11,7 +11,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * RE ORC Mod Tool exe file: https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
-* Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/7066d535107d58244700272381ab82e75ee867cb0307970394ca09f3869eb569
+* Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
 * Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file/70ce49a2c31ed95b59de19eb2402705646bf12d3861c0123f70e926b4cc6af0e
 * Borderlands TPS Tool exe file: https://www.virustotal.com/gui/file/1f9103173c9d062516593de69c071e5b91a938ee1f647e4f2b127ec60a718044
