@@ -1,0 +1,6 @@
+xbdm.xex
+xdevkit.dll
+Xbox 360 Neighborhood/SDK
+Visual Studio 2010
+XDK Filesystems
+XDK RGLoader Shadowboot

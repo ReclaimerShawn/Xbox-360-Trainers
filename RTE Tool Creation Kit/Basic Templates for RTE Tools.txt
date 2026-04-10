@@ -1,0 +1,58 @@
+MessageBox (Bring up a Text Box):
+	   MessageBox.Show("Your Text Here");
+
+Write to Memory:
+           byte[] Value = {};
+           XRPC.SetMemory(0xYYYYYYYY, Value);
+
+Read from Memory:
+           byte[] Value = XRPC.GetMemory(0xYYYYYYYY, 4);
+           Array.Reverse(Value);
+
+Write to Pointer:
+           byte[] Value = XRPC.GetMemory(0xYYYYYYYY, 4);
+           Array.Reverse(Value);
+           uint ResolveValue = ((BitConverter.ToUInt32(Value, 0) + 0xZZ));
+           byte[] Write = {};
+           XRPC.SetMemory(ResolveValue, Write);
+
+CheckBox (Off and On Code):
+        private void checkBoxY_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxY.Checked)
+            {
+
+            }
+
+            else
+            {
+
+            }
+        }
+
+ComboBox (Multiple Options):
+        private void comboBoxY_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBoxY.SelectedIndex == 0)
+            {
+
+            }
+            else if (comboBoxY.SelectedIndex == 1)
+            {
+
+            }
+            else if (comboBoxY.SelectedIndex == 2)
+            {
+
+            }
+            else if (comboBoxY.SelectedIndex == 3)
+            {
+
+            }
+        }
+
+timer_Tick (Execute said Code every Z milliseconds):
+        private void timerY_Tick(object sender, EventArgs e)
+        {
+
+        }
