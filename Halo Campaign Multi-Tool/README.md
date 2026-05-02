@@ -7,8 +7,7 @@
 * I want to support Halo 2, but I haven't been able to work with the game because I don't understand how original Xbox game memory is handled yet. May or may not be integrated into the tool in the future. If anyone wants to contribute this code, I'd integrate it with the tool and give you 100% credit for Halo 2.
 
 # Known Glitches
-* Cheats may become disabled after switching to another mission despite the cheat checkbox being checked. Just uncheck and recheck the box and it'll work again
-* Infinite Health gets disabled on Halo 4 if you enter a vehicle (Might be able to fix this)
+* Cheats may become disabled after switching to another mission despite the cheat checkbox being checked. Just uncheck and recheck the box and it'll work again. I can't fix this
 
 # Online Use
 * Halo 3 online use doesn't work period. Happy about that. Thanks to AlcianSilver for testing with me!
