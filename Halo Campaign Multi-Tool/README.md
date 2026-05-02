@@ -12,7 +12,7 @@
 
 # Online Use
 * Halo 3 online use doesn't work period. Happy about that. Thanks to AlcianSilver for testing with me!
-* Halo Reach campaign co-op doesn't work period. However, everything except Infinite Health works if you're host on multiplayer. Furthermore, Infinite Armor Abilities and Infinite Vehicle Boost work offhost. Yikes. Thanks to AlcianSilver for testing with me!
+* Halo Reach online campaign doesn't work period. However, everything except Infinite Health works if you're host on multiplayer. Furthermore, Infinite Armor Abilities and Infinite Vehicle Boost work offhost. Yikes. Thanks to AlcianSilver for testing with me!
 Thanks to WigBickDilly and AlcianSilver for helping me test this tool in the future!
 <img width="356" height="243" alt="Halo" src="https://github.com/user-attachments/assets/f3a83e20-10b0-46f1-91c4-533cfa7a9567" />
 
