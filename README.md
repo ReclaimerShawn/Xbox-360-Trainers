@@ -11,7 +11,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Borderlands TPS Tool exe file: https://www.virustotal.com/gui/file/1f9103173c9d062516593de69c071e5b91a938ee1f647e4f2b127ec60a718044
 * Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
 * Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file/70ce49a2c31ed95b59de19eb2402705646bf12d3861c0123f70e926b4cc6af0e
-* Halo Campaign Multi-Tool exe file: https://www.virustotal.com/gui/file/f791e78c52f0b3d3cc1067ff7818562acd6c1b847d039c9cad9ae9b374d27a29
+* Halo Campaign Multi-Tool exe file: https://www.virustotal.com/gui/file/8bced2eae4386a5faec25c7162c1aa5b8590a8b3f184324c3c82b633d9008e89
 * RE ORC Model Swap Tool exe file: https://www.virustotal.com/gui/file/c52b03ca8f9b522141dd517c570a149f88513b0a0e3b22b159601d4fd9bd55f6
 * RE ORC Mod Tool exe file: https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
