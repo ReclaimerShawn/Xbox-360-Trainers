@@ -1,4 +1,4 @@
-# Supported Game:
+# Supported Games
 * Halo CE Anniversary
 * Halo 3
 * Halo 3 ODST
