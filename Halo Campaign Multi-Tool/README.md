@@ -8,7 +8,6 @@
 
 # Known Glitches
 * Cheats may become disabled after switching to another mission despite the cheat checkbox being checked. Just uncheck and recheck the box and it'll work again
-* If an enemy drains the boost to 0% on a vehicle, you'll have to disable Infinite Vehicle Boost, let it charge to at least be usable again, and then re-enable Infinite Vehicle Boost. Otherwise, the boost percent will never recover (Might be able to fix this)
 * Infinite Health gets disabled on Halo 4 if you enter a vehicle (Might be able to fix this)
 
 # Online Use
