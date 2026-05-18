@@ -17,7 +17,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
 * Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
-* Resident Evil Revelations Tool exe file: https://www.virustotal.com/gui/file/e198fe48cdc21d7a84760b93672dcc19faf825217fffa2854b5afae85d6fb8c9
+* Resident Evil Revelations Tool exe file: https://www.virustotal.com/gui/file/8779232285a5fe7e458ad9f39f26f6de7171f525f11c9722e38bd5979e61ba6b
 * Space Marines Tool exe file: https://www.virustotal.com/gui/file/bea5769c5d668f215ade76998de936d5974d3e3dd491df2226f76ea406b8160a
 
 # Next Trainer Ideas
