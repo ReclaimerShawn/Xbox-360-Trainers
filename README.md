@@ -4,7 +4,7 @@ Whenever I make something for a Co-Op game, please don't use my tools online to 
 
 # Setup
 You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set the console you want to use these tools on to the Default Console in Neighborhood or these tools won't connect.
-You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
+You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex (or JRPC2.xex, as long as XRPC.xex is on the root) as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
 # VirusTotal Scans
 * Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59
@@ -17,7 +17,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
 * Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
-* Resident Evil Revelations Tool exe file: https://www.virustotal.com/gui/file/8779232285a5fe7e458ad9f39f26f6de7171f525f11c9722e38bd5979e61ba6b
+* Resident Evil Revelations Tool exe file: https://www.virustotal.com/gui/file/68b4b717e64dc144607d58c5e1345b06e7072ad5f2afcc88ec8e0abcf3eba840
 * Space Marines Tool exe file: https://www.virustotal.com/gui/file/bea5769c5d668f215ade76998de936d5974d3e3dd491df2226f76ea406b8160a
 
 # Next Trainer Ideas
