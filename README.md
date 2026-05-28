@@ -14,6 +14,7 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * Halo Campaign Multi-Tool exe file: https://www.virustotal.com/gui/file/cefe66d07131cbf466378d014328f1e2808b0c61d3973f09e89eaaabcd47719d
 * RE ORC Model Swap Tool exe file: https://www.virustotal.com/gui/file/c52b03ca8f9b522141dd517c570a149f88513b0a0e3b22b159601d4fd9bd55f6
 * RE ORC Mod Tool exe file: https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
+* Resident Evil 0 Tool exe file: https://www.virustotal.com/gui/file/2a20db6c6d82f6497bdca2f7d6dd0d7d0dc0ab53c0b86fbb637d30f7bcafd3c1
 * Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
 * Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
 * Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
