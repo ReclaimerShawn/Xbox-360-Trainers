@@ -1,5 +1,5 @@
 # Some Info About "Skip Some Item Checks" Cheat
-* This cheat makes it so you can use Typewriters without an Ink Ribbon. It also appears to allow doors that without going into the inventory to be opened without having the appropriate key. For example, you'd be able to walk through the Dining Hall part of the train without having the Train Key and it'd ask you to discard the Train Key like you had it.
+* This cheat makes it so you can use Typewriters without an Ink Ribbon. It also appears to allow doors that open without going into the inventory to be opened without having the appropriate key. For example, you'd be able to walk through the Dining Hall part of the train without having the Train Key and it'd ask you to discard the Train Key like you had it.
 
 # Known Glitches/Quirks
 * Infinite Ammo will NOT work unless "Enable Tool" has been pressed. Neither will the Item Editor.
