@@ -5,5 +5,8 @@
 # Online Use
 This hasn't been tested online yet. It will be.
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/47353a23dab9e059ac8ab85ad0874baee2d7414c9ad189b8a51514f41c6e7902
+
 <img width="605" height="311" alt="RER Tool" src="https://github.com/user-attachments/assets/266d6e9c-6046-4048-b661-ef4d40bd54a1" />
 
