@@ -1,6 +1,5 @@
 # Known Glitches
-* Using the Iventory Editor at sensitive parts of the game, such as when Claire wakes up in the Jail Cell, can cause the game to crash.
-* Using the Character Editor at sensitive parts of the game, such as when Claire wakes up in the Jail Cell, can cause you to clip outside of the map, preventing you from further progressing.
+* Skip Some Item Checks, when used at sensitive parts of the game, like Claire waking up in the Jail Cell, can cause the player to clip outside of the map and be unable to progress in the game. Can also cause crashes at these times, too. Enable the cheat after one of these times to prevent glitching.
 
 # Some Info About "Skip Some Item Checks" Cheat
 * This cheat makes it so you can use Typewriters without an Ink Ribbon. It also appears to allow doors that open without going into the inventory to be opened without having the appropriate key. For example, you'd be able to walk through the Palace rooms that require the Silver Key without you having the Silver Key and it'd ask you to discard the Silver Key like you had it.
