@@ -56,4 +56,7 @@ Basically, you just take the last character before -hr or .ssg and make it a u i
 5) Open the Model Swap tool and make your changes.
 
 6) Finally, place the characters.swb2 file back in the RE ORC/dlc/pack1/characters directory. Your changes should be saved!
+
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/c52b03ca8f9b522141dd517c570a149f88513b0a0e3b22b159601d4fd9bd55f6
 ![RE ORC UI](https://github.com/user-attachments/assets/cb1bceaf-77ab-4bf5-81ef-b9620438fe30)
