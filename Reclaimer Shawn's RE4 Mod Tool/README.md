@@ -6,4 +6,7 @@ These glitches are entirely due to how the game works and not the tool itself. I
 * Wesker and HUNK's melee attacks crash the game.
 * Ashley can die with the Infinite HP cheat if you hit her with a Rocket Launcher and she doesn't have Knight Armor on.
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
+
 ![RE4 Tool UI](https://github.com/user-attachments/assets/c31ca2f0-8651-42e0-aeee-3543867e8238)
