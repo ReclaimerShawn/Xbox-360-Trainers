@@ -10,4 +10,7 @@ The cheats only work if you're host. If you are host, all of the cheats work for
 
 Thanks to RealEvilPink for helping me test this tool online!
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
+
 <img width="519" height="193" alt="REORC" src="https://github.com/user-attachments/assets/e63f5d47-6f07-4b43-a057-b447abd1501f" />
