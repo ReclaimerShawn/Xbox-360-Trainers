@@ -7,4 +7,7 @@ This tool's inventory editor doesn't work unless you have all weapons in the gam
 # Online Use
 This hasn't been tested online yet. It will be.
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
+
 <img width="625" height="268" alt="RE6 Tool" src="https://github.com/user-attachments/assets/3248b3a8-8867-4d22-9e32-0289c355be2e" />
