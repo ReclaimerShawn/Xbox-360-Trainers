@@ -18,7 +18,7 @@ Disabling the Sanity Check works, even if you're off-host. However, if you save 
 
 Thanks to gatekeeper1122 for helping me test this tool online!
 
-# VirusTotal Link:
+# VirusTotal Scan
 https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
 
 ![BL1 Tool UI](https://github.com/user-attachments/assets/1e6c0cd4-cfd4-44c8-b417-a860d9f147ab)
