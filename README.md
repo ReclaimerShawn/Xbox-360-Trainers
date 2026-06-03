@@ -6,21 +6,6 @@ Whenever I make something for a Co-Op game, please don't use my tools online to 
 You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set the console you want to use these tools on to the Default Console in Neighborhood or these tools won't connect.
 You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex (or JRPC2.xex, as long as XRPC.xex is on the root) as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
-# VirusTotal Scans
-* Bakugan Tool exe file: https://www.virustotal.com/gui/file/214171c4b92f5f0deb84ce091df5551c6e65fbf29efc157c74d4f9b2191b4c59
-* Borderlands TPS Tool exe file: https://www.virustotal.com/gui/file/1f9103173c9d062516593de69c071e5b91a938ee1f647e4f2b127ec60a718044
-* Borderlands 1 Tool exe file: https://www.virustotal.com/gui/file/e3531ed06aa9ac3d738c4e8cbbc3aa57cce115e54ba927d4fa489a2783625a52
-* Borderlands 2 Tool exe file: https://www.virustotal.com/gui/file/70ce49a2c31ed95b59de19eb2402705646bf12d3861c0123f70e926b4cc6af0e
-* Halo Campaign Multi-Tool exe file: https://www.virustotal.com/gui/file/cefe66d07131cbf466378d014328f1e2808b0c61d3973f09e89eaaabcd47719d
-* RE ORC Model Swap Tool exe file: https://www.virustotal.com/gui/file/c52b03ca8f9b522141dd517c570a149f88513b0a0e3b22b159601d4fd9bd55f6
-* RE ORC Mod Tool exe file: https://www.virustotal.com/gui/file/60e88800cd157d8a81376b9fd1091f95f1a953dc73207fb36ba35216380d1125
-* Resident Evil 0 Tool exe file: https://www.virustotal.com/gui/file/2a20db6c6d82f6497bdca2f7d6dd0d7d0dc0ab53c0b86fbb637d30f7bcafd3c1
-* Resident Evil 4 Tool exe file: https://www.virustotal.com/gui/file/03e6aa863f51182054f1249f1542b734fbb2118f614bc03a11b282822de81ddb
-* Resident Evil 5 Tool exe file: https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
-* Resident Evil 6 Tool exe file: https://www.virustotal.com/gui/file/a56573d3d77964f6f483356e71572ebc834e05856f8c8f4546fa85288eb326cb
-* Resident Evil Revelations Tool exe file: https://www.virustotal.com/gui/file/47353a23dab9e059ac8ab85ad0874baee2d7414c9ad189b8a51514f41c6e7902
-* Space Marines Tool exe file: https://www.virustotal.com/gui/file/bea5769c5d668f215ade76998de936d5974d3e3dd491df2226f76ea406b8160a
-
 # Next Trainer Ideas
 * You can always suggest games that are Single Player or Co-Op (with no competitive aspects) in the issues and I might make a tool for the game sometime!
 
