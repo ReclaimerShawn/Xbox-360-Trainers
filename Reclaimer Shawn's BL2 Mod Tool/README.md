@@ -11,4 +11,7 @@ The cheats only work if you're host. If you're not host, only Disabling the Sani
 
 Thanks to gatekeeper1122 for helping me test this tool online!
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/70ce49a2c31ed95b59de19eb2402705646bf12d3861c0123f70e926b4cc6af0e
+
 ![BL2 Tool UI](https://github.com/user-attachments/assets/c8acf4ae-de56-4ecd-a9d9-724584b6542d)
