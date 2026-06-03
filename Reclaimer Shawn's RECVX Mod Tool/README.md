@@ -1,5 +1,5 @@
 # Known Glitches
-* Using the Character Modifier at sensitive parts of the game, such as when Claire wakes up in the Jail Cell, can cause the game to crash. Use the character editor at your own risk.
+* Using the tool at sensitive parts of the game, such as when Claire wakes up in the Jail Cell, can cause the game to crash. Use the character editor at your own risk.
 
 # Some Info About "Skip Some Item Checks" Cheat
 * This cheat makes it so you can use Typewriters without an Ink Ribbon. It also appears to allow doors that open without going into the inventory to be opened without having the appropriate key. For example, you'd be able to walk through the Palace rooms that require the Silver Key without you having the Silver Key and it'd ask you to discard the Silver Key like you had it.
