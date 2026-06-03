@@ -14,6 +14,9 @@ The cheats only work if you're host. If you're not host, only Disabling the Sani
 
 Thanks to Hinisaki and gatekeeper1122 for testing this tool online with me!
 
+# VirusTotal Scan
+https://www.virustotal.com/gui/file/1f9103173c9d062516593de69c071e5b91a938ee1f647e4f2b127ec60a718044
+
 ![BLTPS Tool UI](https://github.com/user-attachments/assets/d0c5da87-ed2a-42f2-9d17-d83eb8c81a4f)
 
 
