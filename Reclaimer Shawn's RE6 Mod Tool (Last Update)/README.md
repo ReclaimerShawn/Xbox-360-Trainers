@@ -1,3 +1,7 @@
+# Why The Last Version
+* The latest version of the tool doesn't include Vertical Item Slot 2 because of how the latest tool works. Considering this has less functionality than the previous one, I placed this tool here to download if you prefer this one.
+* However, the latest update doesn't require manual user input for Jake/Sherry and it doesn't require you using a specific save or firing a different weapon for each character for the item editor to work. The UI is also slightly different.
+
 # Proper Installation
 This tool's inventory editor doesn't work unless you have all weapons in the game on your save file for each character. To allow this tool to work properly, take the save included with this tool and Rehash/Resign it to your profile. It has all of the weapons unlocked. Thanks to Yecgaa01 for the save file!
 
