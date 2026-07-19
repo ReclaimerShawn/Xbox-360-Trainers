@@ -22,6 +22,6 @@ The cheats only work if you're host. Here are some notes about online use with t
 Thanks to RealEvilPink for helping me test this tool online!
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/e16dee517d7632b4740bee196dca63e306e20af3d0f07efeed7ceb7cb149e2aa
+https://www.virustotal.com/gui/file/0e831303c1387e82ae8ccf6f26c3d45e8a392b1119ca621fe533ab57186a7da1
 
-![RE5 Tool UI](https://github.com/user-attachments/assets/f0224a07-11bf-4b4f-bf8b-ac699c82b1cf)
+<img width="566" height="335" alt="RE5 Tool" src="https://github.com/user-attachments/assets/3752d622-495d-4224-89be-ac5dead9ddf2" />
