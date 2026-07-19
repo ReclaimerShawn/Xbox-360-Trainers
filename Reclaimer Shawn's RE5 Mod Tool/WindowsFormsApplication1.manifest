@@ -9,12 +9,12 @@
   </dependency>
   <dependency>
     <dependentAssembly>
-      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+      <assemblyIdentity name="System.Windows.Forms" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly>
-      <assemblyIdentity name="System.Windows.Forms" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
     </dependentAssembly>
   </dependency>
   <dependency>
