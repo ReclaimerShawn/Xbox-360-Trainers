@@ -1,5 +1,5 @@
 # Info About Trainer
-This tool is for the Japenese version of the Resident Evil HD Remake called Biohazard.
+This tool is for the Japanese version of the Resident Evil HD Remake called Biohazard.
 
 # Known Glitches
 * Infinite Ammo doesn't work for items with one use (herbs, keys, etc.)
