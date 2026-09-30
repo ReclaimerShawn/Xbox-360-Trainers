@@ -6,7 +6,8 @@
 This hasn't been tested online yet. It will be.
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/ac8a57b993071e3057889c776e325cd38f2d3e4b8c66df6fe7c67a60a90f2abc
+https://www.virustotal.com/gui/file/18d81ba2ef77d5c0a3fabffe464b12c0b4c16b4b14fe3ba0dca6e1f766ecf35d
 
-<img width="627" height="223" alt="RE6 Tool" src="https://github.com/user-attachments/assets/b087508d-9679-46a6-847e-34a010e454ed" />
+<img width="627" height="194" alt="RE6" src="https://github.com/user-attachments/assets/d93550b2-ef4a-4600-ae28-a502e600916e" />
+
 
