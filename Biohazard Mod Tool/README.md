@@ -3,6 +3,7 @@ This tool is for the Japanese version of the Resident Evil HD Remake called Bioh
 
 # Known Glitches
 * Infinite Ammo doesn't work for items with one use (herbs, keys, etc.)
+* If a gun uses more than its clip, even when it has a quantity above the clip, guns will stop firing like they've ran out of ammo. Clicking Infinite Ammo gets around this by giving you a quantity of 255 ammo and preventing both in-game ammo counters from going down.
 
 # VirusTotal Scan
 https://www.virustotal.com/gui/file/56f7fcbf56f12bd461d00af66d8b6d5255c374186b6d542e4fa4bfec6e177002
