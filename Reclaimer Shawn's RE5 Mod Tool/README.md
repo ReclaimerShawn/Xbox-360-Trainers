@@ -9,7 +9,6 @@ The game won't crash if you select non-DLC characters, though.
 4) Place the nativeXenon folder in the same directory as your Resident Evil 5 game. This is only possible if your game is in .XEX format
 
 # Program Quirks
-* If you don't click Enable Tool before use, the tool won't work. You click Connect and then click Enable Tool after the tool connects and it'll work properly.
 * The item modifier only works if you fire your gun/item once before selecting options. It uses the ammo counter to find the item address. So, before using it, fire the gun you want to change first. If Sheva fires her gun and she's an AI character, it'll find/modify whatever gun she was using whenever she fired.
 * The character editor may take changing the chapter, saving, and exiting a few times before your characters are actually changed.
 
@@ -22,6 +21,6 @@ The cheats only work if you're host. Here are some notes about online use with t
 Thanks to RealEvilPink for helping me test this tool online!
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/0e831303c1387e82ae8ccf6f26c3d45e8a392b1119ca621fe533ab57186a7da1
+https://www.virustotal.com/gui/file/99c7a4cabf76e5591a30df85296758c19806639030eb9c98dba9286256f6ab08
 
-<img width="566" height="335" alt="RE5 Tool" src="https://github.com/user-attachments/assets/3752d622-495d-4224-89be-ac5dead9ddf2" />
+<img width="565" height="336" alt="RE5" src="https://github.com/user-attachments/assets/0a1764ae-5b65-4112-9c45-5a6da83409ce" />
