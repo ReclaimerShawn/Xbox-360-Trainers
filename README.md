@@ -7,12 +7,14 @@ You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set 
 You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex (or JRPC2.xex, as long as XRPC.xex is on the root) as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
 # Next Trainer Ideas
+* FFXIII, FFXIII-2, and Final Fantasy: Lightning Returns
 * You can always suggest games that are Single Player or Co-Op (with no competitive aspects) in the issues and I might make a tool for the game sometime!
 
 # Compilation Instructions
-1) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
-2) Find a copy of xdevkit.dll somewhere online (I'm not including this file) and add it as a reference to the tool.
-3) Build the tool and run the exe file.
+1) Name the downloaded source code folder something short. The name is often so long it prevents compilation...
+2) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
+3) Find a copy of xdevkit.dll somewhere online (I'm not including this file) and add it as a reference to the tool.
+4) Build the tool and run the exe file.
 
 # Takedowns
 This is a note for the Developers and Publishers of the games of the tools I published here. This is also a note for Microsoft as well. If you want me to remove these tools, tell me what tool to remove by posting an Issue in this Github repository and I'll remove it promptly. You could also attempt contacting me via my email epiczombie7@gmail.com, but I rarely ever check this email and receieve a lot of spam in my inbox, so contacting me on the Github is a better idea.
