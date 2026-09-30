@@ -11,8 +11,8 @@ You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using
 * You can always suggest games that are Single Player or Co-Op (with no competitive aspects) in the issues and I might make a tool for the game sometime!
 
 # Compilation Instructions
-1) Name the downloaded source code folder something short. The name is often so long it prevents compilation...
-2) To compile these files from the source code .7z archives, open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional.
+1) To compile these files from the source code .7z archives, first extract it. The extracted folder should be named something short because long names prevent compilation...
+2) Open the .sln file inside the WindowsFormsApplication# folder in Visual Studio 2010 Professional. This can be done by double clicking the .sln file.
 3) Find a copy of xdevkit.dll somewhere online (I'm not including this file) and add it as a reference to the tool.
 4) Build the tool and run the exe file.
 
