@@ -6,6 +6,6 @@
 * If you go over the game's built-in six slot limit, the game will crash. For example, one could do this by placing a Shotgun in Item Slot 1, a Rocket Launcher in Item Slot 2, a Submachine Gun in Item Slot 3, and then placing any item in Item Slot 4 for a total of 7-8 used slots. Because of this, whenever you modify weapons for the second time, you'll want to set everything you want to modify to "Empty", enter the inventory menu, exit the inventory menu, make the changes, and then go back into the inventory for the new changes to save. This prevents potential crashes when switching away from multi-slot items.
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/03b304544d52f0435ab3258d700fd6a226232e69ea7f1f329d2a4069ba3d5554
+https://www.virustotal.com/gui/file/11c82e52d4bf7f3e270f9a6c0b6b2e51c3c1ad8104ed1e9f2b657717e609ea2f
 
 <img width="523" height="283" alt="RE0" src="https://github.com/user-attachments/assets/06e1931c-2581-4366-9b85-f2cdb54b4c93" />
