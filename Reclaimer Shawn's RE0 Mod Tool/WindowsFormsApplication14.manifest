@@ -4,17 +4,17 @@
   <file name="WindowsFormsApplication14.exe" />
   <dependency>
     <dependentAssembly>
-      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly>
       <assemblyIdentity name="mscorlib" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly>
       <assemblyIdentity name="System.Windows.Forms" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
     </dependentAssembly>
   </dependency>
   <dependency>
