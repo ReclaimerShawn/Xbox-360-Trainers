@@ -7,7 +7,7 @@ You'll need to have Xbox 360 Neighborhood to use these tools. Make sure you set 
 You'll also need xbdm.xex and XRPC.xex as plugins on Dashlaunch. If you're using RGLoader or an XDK, you'll just need XRPC.xex (or JRPC2.xex, as long as XRPC.xex is on the root) as a plugin. Finally, if the game has a Title Update, you'll need to update the game to be on the latest update for these tools to work.
 
 # Next Trainer Ideas
-* FFXIII, FFXIII-2, and Final Fantasy: Lightning Returns
+* FFXIII-2 and Final Fantasy: Lightning Returns
 * You can always suggest games that are Single Player or Co-Op (with no competitive aspects) in the issues and I might make a tool for the game sometime!
 
 # Compilation Instructions
