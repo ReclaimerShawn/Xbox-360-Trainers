@@ -1,5 +1,7 @@
 # Known Glitches
 * Infinite Health will not save you from Poison Damage or Instant Death
+* Selecting more than one of the same character will cause that character slot to be dropped. Duplicate characters cannot be used due to how the game works.
+* Setting Gadot or Lebreau to the party leader will result in an invisible model and you being unable to move around in the overworld, at least on Disc 3. 
 * Using Infinite TP will not increase the bar you see inside the menu. I don't care enough to fix this right now, but might at some point.
 
 # Potential Glitches
