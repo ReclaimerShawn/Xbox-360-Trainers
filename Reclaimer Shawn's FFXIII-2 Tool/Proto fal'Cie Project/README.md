@@ -3,6 +3,7 @@ Make enemy monsters usable as allies. Especially Proto fal'Cie Adam and the othe
   * Paradigm Shifting in battle will cause a crash with ANY of these monsters
   * Some monsters may crash the game upon their model loading, entering the battle, or in other ways I haven't anticipated yet. This IS A RESEARCH PROJECT!
   * Monsters here do not have a Crystarium of their own. As a result, they will not appear in the Monster List unless you use my tool to "Force" them in.
+  * Getting a pre-emptive strike results in the AI glitching out and not attacking.
   * Many of these monsters will either not attack at all or will attempt to but do nothing.
 
 # How I'll Test
