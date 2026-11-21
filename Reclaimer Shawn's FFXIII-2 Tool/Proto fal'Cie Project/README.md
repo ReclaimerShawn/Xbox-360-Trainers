@@ -5,15 +5,18 @@ Make enemy monsters usable as allies. Especially Proto fal'Cie Adam and the othe
   * Monsters here do not have a Crystarium of their own. As a result, they will not appear in the Monster List unless you use my tool to "Force" them in.
   * Many of these monsters will either not attack at all or will attempt to but do nothing.
 
-# How
+# How I'll Test
 Use my save editor to Force these monsters into the game. From there, I will subject monsters to two tests:
   * BASELINE TEST: Every monster in this list will be tested with the same setup. A Gorgonopsid will be morphed into the Monster and be given Attack, Ruin, Fire, Thunder, Aero, Blizzard, and Ruinga. If the monster is able 
   to successfully use ANY of these moves or able to do ANY attack, it will be considered to pass the test.
   * EXTENDED TEST: This will mainly apply to monsters I actually care about, like the Boss Monsters, Cie'th, and some Unique Enemies. A Gorgonopside will be morphed into the Monster and be given attacks that are specific 
   to that monster alone. Monster attacks appear to start with their ID, followed by the attack. EX: m740_ac000
 
-# Testing
+# How to Contribute
+* Do these tests yourself and tell me your findings.
+* Give me a list of Monster Attack IDs. This would expedite the process and allow me to incorporate them into the Abilities Editor of my Mod Tool.
 
+# Testing
 | Monsters                        | BASELINE TEST                            | EXTENDED TEST |
 | ------------------------------- | ---------------------------------------- | ------------- |
 | k000 = Pantheron                |                                          |               |
