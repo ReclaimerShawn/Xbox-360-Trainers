@@ -8,6 +8,10 @@
 # Potential Glitches
 * Disturbance of story events or potential save corruption. To allow the other characters in, flags related to the characters are changed. Make a backup of your save before you use this tool. I cannot confirm or deny this is a problem that exists.
 
+# Proto fal'Cie Project
+* I am doing research on all of the Force Monster IDs to see if I can get them in as allies that function normally in battle. This is especially focused on Proto fal'Cie Adam, Bosses, and Cie'th.
+* Help if you like. Keep track of the project in the Proto fal'Cie Project folder in the same folder as the tool.
+
 # VirusTotal Scan
 https://www.virustotal.com/gui/file/161298a4e72c59667053b0ea553bfe65c47b15962626ddba6008013f70c285cc
 
