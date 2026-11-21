@@ -1,5 +1,5 @@
 # Known Glitches
-* ABILITY EDITOR IS BROKEN. Passive editor appears to work fine.
+* ABILITY EDITOR IS BROKEN. Passive editor appears to work fine. Will fix tomorrow.
 * Infinite Health will make all players and enemies immune to poison damage and wounding damage. This is done on purpose to simply the workings of Infinite Health. AKA: I'm lazy. 
 * If you somehow get Gadot or Lebreau into the leader slot, the game will crash. Don't do that. This is due to how the game works and I cannot fix this.
 * Selecting duplicate party members will cause only one party member to go into battle. Don't do that. This is due to how the game works and I cannot fix this.
