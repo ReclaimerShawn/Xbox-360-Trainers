@@ -8,7 +8,7 @@ Make enemy monsters usable as allies. Especially Proto fal'Cie Adam and the othe
 
 # How I'll Test
 Use my save editor to Force these monsters into the game. From there, I will subject monsters to two tests:
-  * BASELINE TEST: Every monster in this list will be tested with the same setup. A Gorgonopsid will be morphed into the Monster and be given Attack, Ruin, Fire, Thunder, Aero, Blizzard, and Ruinga. If the monster is able 
+  * BASELINE TEST: Every monster in this list will be tested with the same setup. A Gorgonopsid will be morphed into the Monster and be given Ruin, Fire, Thunder, and Ruinga. If the monster is able 
   to successfully use ANY of these moves or able to do ANY attack, it will be considered to pass the test.
   * EXTENDED TEST: This will mainly apply to monsters I actually care about, like the Boss Monsters, Cie'th, and some Unique Enemies. A Gorgonopside will be morphed into the Monster and be given attacks that are specific 
   to that monster alone. Monster attacks appear to start with their ID, followed by the attack. EX: m740_ac000
