@@ -1,5 +1,4 @@
 # Known Glitches
-* ABILITY EDITOR IS BROKEN. Passive editor appears to work fine. Will fix tomorrow.
 * Infinite Health will make all players and enemies immune to poison damage and wounding damage. This is done on purpose to simply the workings of Infinite Health. AKA: I'm lazy. 
 * If you somehow get Gadot or Lebreau into the leader slot, the game will crash. Don't do that. This is due to how the game works and I cannot fix this.
 * Selecting duplicate party members will cause only one party member to go into battle. Don't do that. This is due to how the game works and I cannot fix this.
@@ -14,6 +13,7 @@
 * Help if you like. Keep track of the project in the Proto fal'Cie Project folder in the same folder as the tool.
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/67c501c856bc60cbf89ed5a799ca067ad54467de19f33f0f5f83284673fc0c96
+https://www.virustotal.com/gui/file/10997a847b8d1705e532fc03c56c213502ef5b24711e97deb0009583613d50f0
 
-<img width="732" height="702" alt="FF132 Tool" src="https://github.com/user-attachments/assets/b681bb6c-c5c3-4915-8fd6-bb0c7e2eeddf" />
+<img width="732" height="701" alt="ff13 tool" src="https://github.com/user-attachments/assets/49ff77d0-ab00-42a8-a644-8088a5769378" />
+
