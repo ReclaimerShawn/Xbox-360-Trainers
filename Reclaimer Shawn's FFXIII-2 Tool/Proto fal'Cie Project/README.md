@@ -17,7 +17,6 @@ Use my save editor to Force these monsters into the game. From there, I will sub
 
 # How to Contribute
 * Do these tests yourself and tell me your findings.
-* Give me a list of Monster Attack IDs. This would expedite the process and allow me to incorporate them into the Abilities Editor of my Mod Tool.
 
 # Testing
 | Monsters                              | COMMANDO TEST | RAVAGER TEST                 | EXTENDED TEST |
