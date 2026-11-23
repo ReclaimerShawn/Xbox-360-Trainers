@@ -10,7 +10,7 @@ Make enemy monsters usable as allies. Especially Proto fal'Cie Adam and the othe
 Use my save editor to Force these monsters into the game. From there, I will subject monsters to two tests:
   * COMMANDO TEST: Every monster in this list will be tested with the same setup. A Commando Gorgonopsid will be morphed into the Monster and be given Fire, Thunder, Ruin, Attack, and Ruinga. If the monster is able 
   to successfully use ANY of these moves or able to do ANY attack, it will be considered to pass the test.
-  * RAVAGER TEST: Every monster in this list will be tested with the same setup. A Ravager Gorgonopsid will be morphed into the Monster and be given Fire, Thunder, Ruin, Attack, and Ruinga. If the monster is able 
+  * RAVAGER TEST: Every monster in this list will be tested with the same setup. A Ravager Gorgonopsid will be morphed into the Monster and be given Ruin, Attack, Ruinga, Blindside, and Powerchain. If the monster is able 
   to successfully use ANY of these moves or able to do ANY attack, it will be considered to pass the test.
   * EXTENDED TEST: This will mainly apply to monsters I actually care about, like the Boss Monsters, Cie'th, and some Unique Enemies. A Gorgonopsid will be morphed into the Monster and be given attacks that are specific 
   to that monster alone. Monster attacks appear to start with their ID, followed by the attack. EX: m740_ac000
