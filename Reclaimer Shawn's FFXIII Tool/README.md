@@ -1,13 +1,10 @@
 # Known Glitches
 * Infinite Health will make all players and enemies immune to poison damage. This is intentional.
-* Selecting Characters not currently unlocked in the story will currently not load in. I'll find the flags and fix this.
 * Selecting more than one of the same character will cause that character slot to be dropped. Duplicate characters cannot be used due to how the game works.
-* Setting Gadot or Lebreau to the party leader will result in an invisible model and you being unable to move around in the overworld, at least on Disc 3. 
-
-# Potential Glitches
-* If you use the Max Stats cheat, try to disable it whenever upgrading the ATB Gauge. If it is used once, then have it on every time you upgrade the ATB Gauge from thereon out. Otherwise, you may get over 6 ATB, and at some point, this will cause the game to crash.
+* Setting Gadot or Lebreau to the party leader will result in an invisible model or the game crashing. DON'T do this.
+* DON'T select characters who you haven't seen the Crystarium for yet. If you do, the character will be unable to attack. You MAY be able to get around this by using the FFXIII Save Editor, though. Another thing:  modifying the character through the tool does NOT change the preset paradigms. If the character doesn't have a Role unlocked for the Crystarium yet, make sure to customize your Paradigm Presets to only include Roles they have. Otherwise, the character may also be unable to attack.
 
 # VirusTotal Scan
-https://www.virustotal.com/gui/file/71446a6b47518be5c40e44e535a6a1af06d031060dc62a00a37176f2de0efaf7
+https://www.virustotal.com/gui/file/28791ad4c23db0e891329ec51766a37e92420348ac5dc39a4b0a6e88ab67faf7
 
 <img width="558" height="451" alt="FF13 Tool" src="https://github.com/user-attachments/assets/d7e41dd3-92d1-4866-8215-cdc564125201" />
