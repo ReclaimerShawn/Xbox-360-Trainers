@@ -5,6 +5,10 @@
 * If it says the Ability Editor has failed to connect, simply close the window and click the Ability Editor again to see if it works. I doubt you'll come across this problem if you're able to connect with the main menu.
 * The monster editor has a few ways to crash the game or cause unexpected behavior. Certain Monsters in the Force section may crash on model load or battle load. Paradigm Shifting with said monsters with cause your game to crash. Consider this a debug/testing option. Getting a pre-emptive strike results in the AI glitching out and not attacking. Many Monsters in the Force section may also be unable to use moves or behave strangely in battle. I theorize this is because the AI is expecting moves it doesn't have, and therefore, does nothing. I will attempt to write monster specific moves to monsters to see if I cannot force their AI to work.
 
+# A Note About Forced Monsters
+* Forced Monsters will appear in the Crystarium and Monster List named as a Gorgonopsid. This is intentional, as if I didn't force these monsters to use a valid name, they wouldn't appear in the list at all. The monsters 
+  will not appear while the tool is disconnected, as they will go back to using their invalid name upon loading the game normally.
+
 # Potential Glitches
 * Disturbance of story events or potential save corruption. To allow the other characters in, flags related to the characters are changed. Make a backup of your save before you use this tool. I cannot confirm or deny this is a problem that exists.
 
